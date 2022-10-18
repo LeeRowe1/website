@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/lee.rowe/repos/website/website-cl
+[branch "wonderful"]
+	remote = origin
+	merge = refs/heads/wonderful
