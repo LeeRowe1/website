@@ -1,0 +1,20 @@
+From 76efab4a9a41a6516751405d0894876d777dbe58 Mon Sep 17 00:00:00 2001
+From: LeeRowe1 <lee.rowe@bjss.com>
+Date: Wed, 19 Oct 2022 10:18:14 +0100
+Subject: [PATCH 1/2] Add new dev work
+
+---
+ newFile3 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 newFile3
+
+diff --git a/newFile3 b/newFile3
+new file mode 100644
+index 0000000..067f952
+--- /dev/null
++++ b/newFile3
+@@ -0,0 +1 @@
++new dev work
+-- 
+2.37.3.windows.1
+
